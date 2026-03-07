@@ -837,9 +837,19 @@ document.addEventListener('DOMContentLoaded', function() {
                     { title: "Trampoline", duration: "2:37", file: "audio/solos-units/Tilt/Trampoline.mp3"},
                     { title: "Heaven", duration: "3:01", file: "audio/solos-units/Tilt/Heaven.mp3"}
                 ]
+            },
+            "From JOY, with Love": {
+                cover: "img/solos/From JOY, with Love.jpg",
+                year: "2025",
+                tracks: [
+                    { title: "Love Splash!", duration: "3:09", file: "audio/solos-units/From Joy with Love/JOY Love Splash! Lyrics (Color Coded Lyrics).mp3"},
+                    { title: "Get Up and Dance", duration: "3:09", file: "audio/solos-units/From Joy with Love/Get Up And Dance.mp3" },
+                    { title: "La Vie En Bleu", duration: "3:16", file: "audio/solos-units/From Joy with Love/La Vie En Bleu.mp3"},
+                    { title: "Unwritten Page", duration: "3:03", file: "audio/solos-units/From Joy with Love/Unwritten Page.mp3"},
+                    { title: "여름 편지 Scent Of Green", duration: "3:13", file: "audio/solos-units/From Joy with Love/여름 편지 Scent Of Green.mp3"},
+                    { title: "품 Cuddle", duration: "3:50", file: "audio/solos-units/From Joy with Love/JOY Cuddle Lyrics (Color Coded Lyrics).mp3"}
+                ]
             }
-        
-        
         };
 
         function createMusicPlayer() {
